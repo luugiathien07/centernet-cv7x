@@ -1,0 +1,58 @@
+{
+  "ARGS": {
+    "apirecord": true,
+    "config": null,
+    "customlibpath": null,
+    "customnodedll": null,
+    "customnodeparser": null,
+    "debuglevel": 1,
+    "donotallowd2t": false,
+    "donotusedataformat": false,
+    "draflags": null,
+    "dumpinferenceresults": null,
+    "gqflags": null,
+    "isrc_dict": {
+      "OLD_FMT_LNAME": {
+        "dram_format": null,
+        "dram_pitch_alignment": null,
+        "i2rgb": null,
+        "i2yuv444": null,
+        "ic": null,
+        "idf": null,
+        "ifile": null,
+        "im": null,
+        "iq": null,
+        "is": null,
+        "iswap": null,
+        "it": null,
+        "iuv": null
+      }
+    },
+    "model": "./models/ctdet_coco_dla_2x_conv_v2.onnx",
+    "nodanglingslice": false,
+    "odst_dict": null,
+    "output": "ctdet",
+    "outputfolder": "./src/cnngen_ir",
+    "outputnodes": null,
+    "pick_gpu_id": null,
+    "prepostprocjson": null,
+    "preproc_dict": {},
+    "proto": null,
+    "removeind": false,
+    "sidebandfile": null,
+    "split": null,
+    "targetdevice": null,
+    "tflite_proto": null,
+    "transforms": null,
+    "unpack3dops": false,
+    "use_gpu": false,
+    "usehwnodes": false
+  },
+  "STATUS": {
+    "status": null
+  },
+  "VERSION": {
+    "cnngen": null,
+    "parser": null
+  }
+}

@@ -1,0 +1,23 @@
+# Output folders
+cnngen_output/
+vas_output/
+
+# Binary files
+*.bin
+*.vdg
+*.dagbin
+*.dvi
+
+# Logs
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# ONNX models
+*.onnx
+
+# Weights
+weights/
+
